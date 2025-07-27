@@ -34,9 +34,9 @@ profiles:
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/matilde-tassinari/
-  - icon: custom/google-scholar
+  - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=cOLyZ3cAAAAJ
-  - icon: custom/researchgate-square
+  - icon: academicons/researchgate-square
     url: https://www.researchgate.net/profile/Matilde-Tassinari-2    
   - icon: brands/x
     url: https://twitter.com/mtl_tassinari
