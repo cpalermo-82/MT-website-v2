@@ -1,13 +1,14 @@
 ---
-title: Recent & Upcoming Talks
+title: VRtual Societies
 cms_exclude: true
-#url: talk
+url: https://www.psychologytoday.com/us/blog/vrtual-societies
 
 # View
 view: card
 
 # Optional cover image (relative to `assets/media/` folder).
 image:
-  caption: ''
-  filename: ''
+  caption: 'VRtual Societies'
+  filename: 'featured.png'
 ---
+
