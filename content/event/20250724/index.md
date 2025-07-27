@@ -16,7 +16,7 @@ abstract: ''
 #date_end: '2030-06-01T15:00:00Z'
 #all_day: true
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-07-24T00:00:00Z'
+#publishDate: '2025-07-24T00:00:00Z'
 
 authors:
   - admin
@@ -58,6 +58,6 @@ image:
 
 **Immersive experiences may influence votes more than facts do.**
 
-A Swiss study found that VR presentations led to more positive votes, regardless of negative framing. VR’s immersiveness can override content, influencing political decisions through experience. Most participants using VR did not detect whether the content was pro or con. https://www.psychologytoday.com/us/blog/vrtual-societies/202507/virtual-reality-at-the-ballot-box
+A Swiss study found that VR presentations led to more positive votes, regardless of negative framing. VR’s immersiveness can override content, influencing political decisions through experience. Most participants using VR did not detect whether the content was pro or con. 
 
-Read the whole blog at **Psychologytoday.com's VRtual Societies** (https://www.psychologytoday.com/us/blog/vrtual-societies/)
+Read the whole blog at **VRtual Societies** (https://www.psychologytoday.com/us/blog/vrtual-societies/202507/virtual-reality-at-the-ballot-box)
