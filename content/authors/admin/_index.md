@@ -88,7 +88,7 @@ skills:
       - name: RStudio
         description: ''
         percent: 90
-        icon: devicon/rstudio-plain
+        icon: devicon/rstudio
       - name: Virtual Reality (VR)
         description: ''
         percent: 70
