@@ -2,7 +2,7 @@
 title: Virtual Reality at the Ballot Box
 
 event: Immersive experiences may influence votes more than facts do.
-event_url: https://www.psychologytoday.com/us/blog/vrtual-societies/202507/virtual-reality-at-the-ballot-box
+event_url: "https://www.psychologytoday.com/us/blog/vrtual-societies/202507/virtual-reality-at-the-ballot-box"
 
 location: Psychology Today dotcom
 #address:
