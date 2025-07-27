@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Psychology Today**](https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2025-07/pexels-element5-1550337.jpg)'
+  caption: 'Image credit: [**Psychology Today**](https://www.psychologytoday.com/us)'
   focal_point: Right
 
 links:
