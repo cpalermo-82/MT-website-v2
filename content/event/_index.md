@@ -1,7 +1,7 @@
 ---
 title: VRtual Societies
 cms_exclude: true
-url: 'https://www.psychologytoday.com/us/blog/vrtual-societies'
+external_link: https://www.psychologytoday.com/us/blog/vrtual-societies
 
 # View
 view: card
