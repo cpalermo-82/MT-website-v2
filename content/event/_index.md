@@ -1,5 +1,6 @@
 ---
 title: VRtual Societies
+subtitle: 'Read my Blog here: [**VRtual Societies**](https://www.psychologytoday.com/us/blog/vrtual-societies/)'
 cms_exclude: true
 external_link: https://www.psychologytoday.com/us/blog/vrtual-societies
 

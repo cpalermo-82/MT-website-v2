@@ -1,5 +1,7 @@
 ---
 title: Virtual Reality at the Ballot Box
+subtitle: 'Read my Blog here: [**VRtual Societies**](https://www.psychologytoday.com/us/blog/vrtual-societies/)'
+
 
 event: Immersive experiences may influence votes more than facts do.
 event_url: "https://www.psychologytoday.com/us/blog/vrtual-societies/202507/virtual-reality-at-the-ballot-box"
@@ -39,7 +41,7 @@ image:
 links:
   - icon: philpapers
     icon_pack: academicicons
-    name: Read my Blog here
+    name: Read my Blog VRtual Societies here
     url: https://www.psychologytoday.com/us/blog/vrtual-societies/
 
 #url_code: 'https://github.com'
