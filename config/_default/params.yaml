@@ -58,3 +58,8 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+# Site extensions
+extensions:
+  academicons:
+    enable: true

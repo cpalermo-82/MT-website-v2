@@ -34,9 +34,9 @@ profiles:
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/matilde-tassinari/
-  - icon: google-scholar
+  - icon: custom/google-scholar
     url: https://scholar.google.com/citations?user=cOLyZ3cAAAAJ
-  - icon: researchgate-square
+  - icon: custom/researchgate-square
     url: https://www.researchgate.net/profile/Matilde-Tassinari-2    
   - icon: brands/x
     url: https://twitter.com/mtl_tassinari
@@ -92,7 +92,7 @@ skills:
       - name: Virtual Reality (VR)
         description: ''
         percent: 70
-        icon: vr-headset
+        icon: custom/vr-headset
       - name: Social Inequality
         description: ''
         percent: 80
