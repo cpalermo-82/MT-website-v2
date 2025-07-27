@@ -92,7 +92,7 @@ skills:
       - name: Virtual Reality (VR)
         description: ''
         percent: 70
-        icon: custom/vr-headset
+        icon: assets/media/icons/custom/vr-headset
       - name: Social Inequality
         description: ''
         percent: 80
