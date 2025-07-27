@@ -117,6 +117,10 @@ skills:
         description: ''
         percent: 100
         icon: hero/book-open
+      - name: Writing
+        description: ''
+        percent: 100
+        icon: hero/pencil-square
       - name: Graphic design
         description: ''
         percent: 80
