@@ -80,8 +80,6 @@ education:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
