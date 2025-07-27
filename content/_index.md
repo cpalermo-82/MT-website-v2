@@ -73,7 +73,7 @@ sections:
         folders:
           - event
     design:
-      view: article-grid
+      view: card
       columns: 1
   - block: collection
     id: news
