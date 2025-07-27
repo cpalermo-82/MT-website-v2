@@ -73,7 +73,7 @@ sections:
         folders:
           - event
     design:
-      view: card
+      view: list
       columns: 1
   - block: collection
     id: news
