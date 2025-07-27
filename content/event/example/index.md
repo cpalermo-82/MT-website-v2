@@ -13,7 +13,7 @@ location: Psychology Today dotcom
 #  country: United States
 
 #summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'A Swiss study found that VR presentations led to more positive votes, regardless of negative framing. VR’s immersiveness can override content, influencing political decisions through experience. Most participants using VR did not detect whether the content was pro or con.'
+abstract: 'A Swiss study found that VR presentations led to more positive votes, regardless of negative framing. VR’s immersiveness can override content, influencing political decisions through experience. Most participants using VR did not detect whether the content was pro or con. https://www.psychologytoday.com/us/blog/vrtual-societies/202507/virtual-reality-at-the-ballot-box'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -36,11 +36,11 @@ image:
   caption: 'Image credit: [**Unsplash**](https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2025-07/pexels-element5-1550337.jpg)'
   focal_point: Right
 
-#links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
+links:
+  - icon: philpapers
+    icon_pack: academicicons
+    name: Read my Blog here
+    url: https://www.psychologytoday.com/us/blog/vrtual-societies/
 #url_code: 'https://github.com'
 #url_pdf: ''
 #url_slides: 'https://slideshare.net'
@@ -51,13 +51,13 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+#slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
+#projects:
+#  - example
 ---
