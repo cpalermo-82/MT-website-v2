@@ -9,7 +9,7 @@ subtitle: 'Read my Blog here: [**VRtual Societies**](https://www.psychologytoday
 #  postcode: '94305'
 #  country: United States
 #summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: ''
+abstract: 'A Swiss study found that VR presentations led to more positive votes, regardless of negative framing. VR’s immersiveness can override content, influencing political decisions through experience. Most participants using VR did not detect whether the content was pro or con. '
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 #date: '2030-06-01T13:00:00Z'
