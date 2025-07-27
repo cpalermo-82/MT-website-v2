@@ -1,5 +1,5 @@
 ---
-title: 'Psychology Today Blog: VRtual Societies'
+title: '**Psychology Today** - Blog: VRtual Societies'
 summary: VRtual Societies explores how virtual reality (VR) can be a transformative tool in social psychology, impacting human behavior, perceptions, and social issues. It delves into VR's potential to influence areas like voting behavior, reduce gender and other biases, foster empathy, and promote inclusion by allowing users to experience diverse perspectives.
 date: 2025-07-22
 external_link: https://www.psychologytoday.com/us/blog/vrtual-societies
