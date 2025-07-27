@@ -6,7 +6,7 @@ subtitle: 'Read my Blog here: [**VRtual Societies**](https://www.psychologytoday
 event: Immersive experiences may influence votes more than facts do.
 event_url: "https://www.psychologytoday.com/us/blog/vrtual-societies/202507/virtual-reality-at-the-ballot-box"
 
-location: Psychology Today dotcom
+location: 'Psychologytoday.com: [**VRtual Societies**](https://www.psychologytoday.com/us/blog/vrtual-societies/)'
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -21,7 +21,7 @@ abstract: 'A Swiss study found that VR presentations led to more positive votes,
 #   End time can optionally be hidden by prefixing the line with `#`.
 #date: '2030-06-01T13:00:00Z'
 #date_end: '2030-06-01T15:00:00Z'
-all_day: true
+#all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2025-07-24T00:00:00Z'
@@ -29,7 +29,7 @@ publishDate: '2025-07-24T00:00:00Z'
 authors:
   - admin
 
-tags: []
+#tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
