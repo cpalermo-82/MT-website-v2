@@ -15,7 +15,7 @@ baseURL: 'https://matildetassinari.comz'
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
-removePathAccents: tru
+removePathAccents: true
 
 ############################
 ## ADVANCED
