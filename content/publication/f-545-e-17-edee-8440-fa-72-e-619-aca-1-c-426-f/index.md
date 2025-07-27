@@ -1,0 +1,29 @@
+---
+title: 'Navigating Prejudice in Virtual Reality: Direct, Indirect, and Secondary Transfer
+  Effects of Positive and Negative Intergroup Contact in VR'
+authors:
+- Matilde Tassinari
+date: '2024-10-01'
+publishDate: '2025-07-27T02:43:10.493420Z'
+publication_types:
+- thesis
+publication: '*PunaMusta*'
+abstract: Virtual reality (VR) has emerged as a novel tool in social psychology research,
+  offering great opportunities for exploring social dynamics in immersive simulations
+  of intergroup scenarios. In recent years, VR has garnered significant attention
+  as a promising avenue for studying prejudice and developing interventions aimed
+  at its reduction. Despite this growing interest, our knowledge of the effectiveness
+  of prejudice-reducing interventions in VR remains limited, as does our understanding
+  of the challenges and limitations inherent in this new technology.Intergroup contact
+  theory (Allport, 1954), a foundational concept in social psychology, posits that
+  positive interactions between members of different social groups can lead to reduced
+  prejudice and better intergroup attitudes. Extensive research spanning decades has
+  demonstrated the efficacy of intergroup contact interventions across various groups
+  and in both direct and indirect forms of contact (Pettigrew & Tropp, 2006; Lemmer
+  & Wagner, 2015). However, the applications and impact of intergroup contact within
+  VR environments have yet to be comprehensively explored. This dissertation seeks
+  to address these gaps by systematically investigating the effects and features of
+  intergroup contact interventions in VR.
+tags:
+- 5144 Social psychology
+---
