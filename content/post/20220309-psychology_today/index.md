@@ -7,7 +7,7 @@ external_link: https://liikkeessaylirajojen.fi/virtual-reality-can-the-empathy-m
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Psychology Today**](https://www.psychologytoday.com/us)'
+caption: 'Image credit: [**Psychology Today**](https://www.psychologytoday.com/us)'
 
 authors:
   - admin
@@ -17,7 +17,7 @@ tags:
   - Psychology
   - Virtual Reality
   - Prejudice
-  
+              
 ---
 **PSYCHOLOGY TODAY - Virtual Reality: Can the “Empathy Machine” end prejudice?** 
 

@@ -1,4 +1,5 @@
 ---
 title: In the Media
-view: article-grid
+cms_exclude: true
+view: card
 ---
