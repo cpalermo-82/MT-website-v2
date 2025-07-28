@@ -7,7 +7,7 @@ external_link: https://www.psychologytoday.com/us/blog/vrtual-societies/202506/h
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Psychology Today**](https://www.psychologytoday.com/us)'
+  caption: 'Image credit: [**M.Tassinari**](https://matildetassinari.com)'
 
 authors:
   - admin
