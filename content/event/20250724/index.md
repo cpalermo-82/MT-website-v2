@@ -7,7 +7,7 @@ external_link: https://www.psychologytoday.com/us/blog/vrtual-societies/202507/v
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**M.Tassinari**](https://matildetassinari.com)'
+  caption: 'Image credit: [**Pexels**](https://www.pexels.com/)'
 
 authors:
   - admin
@@ -17,6 +17,7 @@ tags:
   - Social psychology
   - Virtual Reality
   - Voting
+  - Swizerland
   
 ---
 **VRtual Societies - Virtual Reality at the Ballot Box** 
