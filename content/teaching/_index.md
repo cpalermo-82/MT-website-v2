@@ -1,9 +1,6 @@
 ---
 title: Contact
 type: page
-menu:
-  main:
-    weight: 80
 ---
 You can reach me at **[matilde.tassinari(at)helsinki.fi](mailto:matilde.tassinari@helsinki.fi)**   
 
