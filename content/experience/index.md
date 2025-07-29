@@ -52,7 +52,7 @@ sections:
           color: '#ee6002ff'
           color_border: '#ee6002ff'
           items:
-            - name: Traveling
+            - name: Treiling
               percent: 90
               icon: person-simple-walk
             - name: Reading
@@ -65,5 +65,5 @@ sections:
               percent: 80
               icon: pencil-square
     design:
-      show_skill_percentage: true
+      show_skill_percentage: false
 ---
