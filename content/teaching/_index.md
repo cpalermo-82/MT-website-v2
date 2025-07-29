@@ -4,8 +4,6 @@ type: page
 menu:
   main:
     weight: 80
-design:
-  css_class: no-divider
 ---
 You can reach me at **[matilde.tassinari(at)helsinki.fi](mailto:matilde.tassinari@helsinki.fi)**   
 
