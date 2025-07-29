@@ -65,5 +65,5 @@ sections:
               percent: 80
               icon: pencil-square
     design:
-      show_skill_percentage: false
+      show_skill_percentage: true
 ---
