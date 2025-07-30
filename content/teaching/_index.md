@@ -4,6 +4,8 @@ type: page
 ---
 You can reach me at **[matilde.tassinari(at)helsinki.fi](mailto:matilde.tassinari@helsinki.fi)**   
 
+Ask me for my resume.
+
 You can also find me on:  
 
 [LinkedIn](https://linkedin.com/in/matilde-tassinari)  
