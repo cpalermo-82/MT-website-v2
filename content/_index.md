@@ -68,7 +68,7 @@ sections:
     content:
       title: VRtual Societies
       subtitle: ''
-      text: 'Read my blog on **[VRtual Societies](https://www.psychologytoday.com/us/blog/vrtual-societies/)**'
+      text: 'Read my blog on **[Psychology Today](https://www.psychologytoday.com/us/blog/vrtual-societies/)**'
       filters:
         folders:
           - event
